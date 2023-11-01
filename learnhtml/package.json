@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "ayu": "^8.0.1",
+    "normalize.css": "^8.0.1"
+  },
+  "name": "learnhtml",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
